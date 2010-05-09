@@ -4,4 +4,6 @@
     Had you answered, you would have heard
     The sound of a nation's soul escaping its body;
     The death rattle of our long suffering idealism
-    Finally killed by the corporate imperialism.
+    Killed by the corporate imperialists.
+    
+*May 9th 2010*
