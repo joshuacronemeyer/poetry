@@ -1,14 +1,7 @@
-== 34th of May
-It was the 34th of May.
-Our codebase didn't account for it,
-We were tripping acid pretty hard
-Wile E. Coyote ran beyond the edge
-And our build light winked green.
+## self.respond_to? :poem
 
-
-the civil rights movement wasn't a revolution.  
-It was the death rattle of a long suffering nation 
-  
-The soul escaping the body.
-We're now living in a zombie nation.
-The heart 
+*May 9th 2010*
+[The 34th of May](34th_of_may)
+[Wile E. Coyote](wile_e_coyote)
+[Volcano Build](volcano_build)
+[War on Terror](war_on_terror)
