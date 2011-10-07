@@ -11,3 +11,6 @@ __May 9th 2010__
 * [Volcano Build](poetry/blob/master/poems/volcano_build.markdown)
 * [War on Terror](poetry/blob/master/poems/war_on_terror.markdown)
 
+__March 19th 2003__
+
+* [Polemic](poetry/blob/master/poems/polemic.markdown)
